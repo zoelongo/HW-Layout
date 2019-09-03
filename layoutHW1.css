@@ -71,12 +71,14 @@ aside{
   height: 388px;
   background-color: #fff;
   color: #ebebeb;
-  padding-right: 20px;
   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-
 }
   
 .wrapper{
 margin: auto;
 width: 960px;
+}
+
+footer{
+    
 }
